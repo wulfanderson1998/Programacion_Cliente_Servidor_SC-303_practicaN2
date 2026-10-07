@@ -1,4 +1,6 @@
-# Programacion_Cliente_Servidor_SC-303_practicaN2## Consigna
+# Programacion_Cliente_Servidor_SC-303_practicaN2
+
+## Consigna
 
 Práctica Programada 2: Polimorfismo, Excepciones y Colecciones (Valor 4%)
 
